@@ -1,0 +1,10 @@
+C:\Users\omarg\source\repos\omar2122b\practicaGit2\WindowsFormsAppPractiaGit2\WindowsFormsAppPractiaGit2\bin\Debug\WindowsFormsAppPractiaGit2.exe.config
+C:\Users\omarg\source\repos\omar2122b\practicaGit2\WindowsFormsAppPractiaGit2\WindowsFormsAppPractiaGit2\bin\Debug\WindowsFormsAppPractiaGit2.exe
+C:\Users\omarg\source\repos\omar2122b\practicaGit2\WindowsFormsAppPractiaGit2\WindowsFormsAppPractiaGit2\bin\Debug\WindowsFormsAppPractiaGit2.pdb
+C:\Users\omarg\source\repos\omar2122b\practicaGit2\WindowsFormsAppPractiaGit2\WindowsFormsAppPractiaGit2\obj\Debug\WindowsFormsAppPractiaGit2.csprojAssemblyReference.cache
+C:\Users\omarg\source\repos\omar2122b\practicaGit2\WindowsFormsAppPractiaGit2\WindowsFormsAppPractiaGit2\obj\Debug\WindowsFormsAppPractiaGit2.Form1.resources
+C:\Users\omarg\source\repos\omar2122b\practicaGit2\WindowsFormsAppPractiaGit2\WindowsFormsAppPractiaGit2\obj\Debug\WindowsFormsAppPractiaGit2.Properties.Resources.resources
+C:\Users\omarg\source\repos\omar2122b\practicaGit2\WindowsFormsAppPractiaGit2\WindowsFormsAppPractiaGit2\obj\Debug\WindowsFormsAppPractiaGit2.csproj.GenerateResource.cache
+C:\Users\omarg\source\repos\omar2122b\practicaGit2\WindowsFormsAppPractiaGit2\WindowsFormsAppPractiaGit2\obj\Debug\WindowsFormsAppPractiaGit2.csproj.CoreCompileInputs.cache
+C:\Users\omarg\source\repos\omar2122b\practicaGit2\WindowsFormsAppPractiaGit2\WindowsFormsAppPractiaGit2\obj\Debug\WindowsFormsAppPractiaGit2.exe
+C:\Users\omarg\source\repos\omar2122b\practicaGit2\WindowsFormsAppPractiaGit2\WindowsFormsAppPractiaGit2\obj\Debug\WindowsFormsAppPractiaGit2.pdb
