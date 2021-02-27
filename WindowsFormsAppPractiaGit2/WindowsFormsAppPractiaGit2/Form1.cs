@@ -24,7 +24,7 @@ namespace WindowsFormsAppPractiaGit2
         {
             Alumno miAlumno = new Alumno();
             String miAlumnoStr;
-
+            //a
             miAlumno.Nombre = aluNombre.Text;
             miAlumno.Nota = Convert.ToInt32(numericUpDown.Text);
             miAlumnoStr = aluNombre.Text + " " + numericUpDown.Text + (miAlumno.Aprobado ? " Aprobado" : " Suspenso") + "\n";
